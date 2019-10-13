@@ -1,0 +1,5 @@
+server:
+  port: 9000
+
+text:
+  url: http://textfiles.com/etext/
